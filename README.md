@@ -1,5 +1,5 @@
 
-<p align="center">A <a href="https://nuxtjs.org/" target="_blank" rel="noopener noreferrer">React JS</a> boilerplate for building scalable API.</p>
+<p align="center">A <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">React JS</a> boilerplate for building scalable API.</p>
 
 
 <h1>React JS + Styled-components
