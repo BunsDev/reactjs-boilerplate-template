@@ -11,7 +11,8 @@ This is a React JS + Styled-components boilerplate code with preconfigured libra
 - styled-components
 - normalize.css
 - react-router-dom
-- more coming 
+- react-spinkit
+- more feature coming
 
 ## Setup Guide
 
